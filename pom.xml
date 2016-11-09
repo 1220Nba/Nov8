@@ -12,6 +12,7 @@
   <dependencies>
       <!-- http://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
 	  <!-- test to simple build -->
+	  <!-- Nov 9th 2016 -->
       <dependency>
           <groupId>javax.servlet</groupId>
           <artifactId>javax.servlet-api</artifactId>
